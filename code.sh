@@ -9,5 +9,4 @@ echo "${red}
  ================== deepnoobdev ==================
 ${reset}"
 echo " "
-#check the website is alive
 #pastebin/$key
